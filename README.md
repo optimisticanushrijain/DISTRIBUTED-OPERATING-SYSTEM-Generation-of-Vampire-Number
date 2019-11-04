@@ -1,1 +1,1 @@
-# Project-1
+# Distributed Operating System: Project 1

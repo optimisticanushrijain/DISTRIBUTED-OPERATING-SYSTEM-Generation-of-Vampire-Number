@@ -1,4 +1,4 @@
-# Proj1
+# DISTRIBUTED-OPERATING-SYSTEM-Generation-of-Vampire-Number
 
 The overall goal of your program is to find all vampire numbers starting at N1 and up to N2 using use Elixir and the actor model to build a good solution to this problem that
 runs well on multi-core machines.
